@@ -51,8 +51,8 @@ body {
 
 a:hover,
 a:focus {
-  outline: 0.15rem solid #fff;
-  outline-offset: 0.2rem;
+  outline: .15rem solid #fff;
+  outline-offset: .2rem;
 }
 
 .nav a {
@@ -69,6 +69,7 @@ a:focus {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: #000;
 }
 
 .banner img {
